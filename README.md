@@ -5,7 +5,7 @@
 ## Main Characters
 - **Dexter Morgan** – Blood spatter analyst / vigilante killer
 - **Brian Moser** – Dexter’s brother / Ice truck killer
-- **James Doakes** – Sargeant Doakes
+- **James Doakes** – Sargeant Doakes / Doakes
 
 ## Why I Like It
 1. The show has **deep psychological storytelling**.
