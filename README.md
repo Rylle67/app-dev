@@ -14,7 +14,6 @@
 
 > *"I just know there’s something dark in me, and I hide it. I certainly don’t talk about it. But it's there."* — Dexter Morgan
 
-### Code Block Example (Just for fun)
 # Dexter's Code
 1. Never get caught.
 2. Never harm the innocent.
